@@ -1,0 +1,1 @@
+# comparacaotrunfo.c
